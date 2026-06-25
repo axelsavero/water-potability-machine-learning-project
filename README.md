@@ -36,8 +36,8 @@ ProjectML_Kelompok/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/axelsavero/ProjectML_Kelompok.git
-cd ProjectML_Kelompok
+git clone https://github.com/axelsavero/water-potability-machine-learning-project.git
+cd water-potability-machine-learning-project
 ```
 
 
